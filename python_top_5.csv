@@ -1,0 +1,6 @@
+name,url,language,created_since,updated_since,contributor_count,org_count,commit_frequency,recent_releases_count,updated_issues_count,closed_issues_count,comment_frequency,dependents_count,criticality_score
+core,https://github.com/home-assistant/core,Python,89,0,2520,9,162.7,205,5330,3786,3.5,380,0.87147
+salt,https://github.com/saltstack/salt,Python,120,0,3636,7,62.6,21,1641,679,1.1,20974,0.87814
+cpython,https://github.com/python/cpython,Python,370,0,1564,8,53.6,15,1952,1564,2.7,8924,0.868
+scikit-learn,https://github.com/scikit-learn/scikit-learn,Python,134,0,2108,8,26.6,6,1122,599,2.6,31148,0.86068
+numpy,https://github.com/numpy/numpy,Python,232,0,1227,9,41.5,16,1104,796,3.2,8818,0.85986
